@@ -1,2 +1,2 @@
-# Program Reservasi Kamar Hotel
+# Program Reservasi Hotel
 Pemrograman
